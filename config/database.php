@@ -6,7 +6,8 @@ $pass = "";
 $db   = "todo_db";
 
 // Membuat koneksi ke database
-$conn = mysqli_connect($host, $user, $pass, $db);
+$conn = mysqli_conne
+ct($host, $user, $pass, $db);
 
 // Mengecek apakah koneksi berhasil
 if (!$conn) {
