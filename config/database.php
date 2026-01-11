@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "todo #1_db";
+$db   = "todo2_db";
 
 // Membuat koneksi ke database
 $conn = mysqli_connect($host, $user, $pass, $db);
