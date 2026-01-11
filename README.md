@@ -10,10 +10,10 @@ NIM  : 240030107
 Github : dhimxanity
 Peran : Membuat Css, Struktur Coding,
 
-Nama : 
-NIM  : 
-Github : 
-Peran : 
+Nama : I Komang Agus Adi Merta
+NIM  : 240030159 
+Github : ikomangagusadimerta
+Peran : Membuat database, Menghubungkan database dengan MYSQL WorkBench
 
 Nama : 
 NIM  : 
