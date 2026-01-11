@@ -20,10 +20,10 @@ NIM  : 240030077
 Github : gitaulandari15
 Peran : Membuat dan menyusun struktur index.php pada aplikasi To-Do List.
 
-Nama : 
-NIM  : 
-Github : 
-Peran : 
+Nama : Ida Bagus Gde Putra Gautama
+NIM  : 240030167
+Github : ibgputragautama
+Peran : Membuat delete.php, membuat update.php
 
 
 
@@ -51,5 +51,6 @@ Peran :
 3. Sesuaikan `database.php`
 4. Jalankan di browser:
    http://localhost/todo-list/public/index.php
+
 
 
