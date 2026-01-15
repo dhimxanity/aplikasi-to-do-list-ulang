@@ -16,7 +16,7 @@ $newStatus = $row['status'] ? 0 : 1;
 $update = "UPDATE tasks SET status = $newStatus WHERE id = $id";
 mysqli_query($conn, $update);
 
-// Kembali ke halaman utama
+// Kembali ke halaman 
 header("Location: index.php");
 exit;
 ?>
