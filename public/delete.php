@@ -8,7 +8,7 @@ $id = $_GET['id'];
 $query = "DELETE FROM tasks WHERE id = $id";
 mysqli_query($conn, $query);
 
-// Kembali ke halaman utama
+// Kembali ke halaman 
 header("Location: index.php");
 exit;
 ?>
